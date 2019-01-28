@@ -1,0 +1,19 @@
+﻿  stdafx.cpp
+  unittest1.cpp
+c:\users\jacob\onedrive\documents\coursework\jeff\210ct-coursework\graph\graph\graph.h(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\onedrive\documents\coursework\jeff\210ct-coursework\graph\graph\graph.h(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\onedrive\documents\coursework\jeff\210ct-coursework\graph\graph\graph.h(113): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\onedrive\documents\coursework\jeff\210ct-coursework\graph\graph\graph.h(126): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\onedrive\documents\coursework\jeff\210ct-coursework\graph\graph\graph.h(160): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\onedrive\documents\coursework\jeff\210ct-coursework\graph\graph\graph.h(193): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\onedrive\documents\coursework\jeff\210ct-coursework\graph\graph\graph.h(228): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\onedrive\documents\coursework\jeff\210ct-coursework\graph\graph\graph.h(267): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\onedrive\documents\coursework\jeff\210ct-coursework\graph\graph\graph.h(278): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\onedrive\documents\coursework\jeff\210ct-coursework\graph\graph\graph.h(288): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\onedrive\documents\coursework\jeff\210ct-coursework\graph\graph\graph.h(331): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\onedrive\documents\coursework\jeff\210ct-coursework\graph\graph\graph.h(359): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\onedrive\documents\coursework\jeff\210ct-coursework\graph\graph\graph.h(379): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\onedrive\documents\coursework\jeff\210ct-coursework\graph\graph\graph.h(387): warning C4018: '<': signed/unsigned mismatch
+  LINK : C:\Users\jacob\OneDrive\Documents\coursework\JEFF\210CT-Coursework\graph\Debug\UnitTest1.dll not found or not built by the last incremental link; performing full link
+     Creating library C:\Users\jacob\OneDrive\Documents\coursework\JEFF\210CT-Coursework\graph\Debug\UnitTest1.lib and object C:\Users\jacob\OneDrive\Documents\coursework\JEFF\210CT-Coursework\graph\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\jacob\OneDrive\Documents\coursework\JEFF\210CT-Coursework\graph\Debug\UnitTest1.dll
