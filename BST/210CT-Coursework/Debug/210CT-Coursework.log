@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  BinarySearchTree.cpp
+c:\users\jacob\onedrive\documents\coursework\jeff\210ct-coursework\bst\210ct-coursework\binarysearchtree.cpp(10): warning C4018: '<': signed/unsigned mismatch
+  210CT-Coursework.vcxproj -> C:\Users\jacob\OneDrive\Documents\coursework\JEFF\210CT-Coursework\BST\Debug\210CT-Coursework.exe

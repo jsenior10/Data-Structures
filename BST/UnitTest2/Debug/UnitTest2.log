@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  unittest1.cpp
+c:\users\jacob\onedrive\documents\coursework\jeff\210ct-coursework\bst\unittest2\unittest1.cpp(18): warning C4018: '<': signed/unsigned mismatch
+     Creating library C:\Users\jacob\OneDrive\Documents\coursework\JEFF\210CT-Coursework\BST\Debug\UnitTest2.lib and object C:\Users\jacob\OneDrive\Documents\coursework\JEFF\210CT-Coursework\BST\Debug\UnitTest2.exp
+  UnitTest2.vcxproj -> C:\Users\jacob\OneDrive\Documents\coursework\JEFF\210CT-Coursework\BST\Debug\UnitTest2.dll
