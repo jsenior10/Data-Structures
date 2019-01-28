@@ -1,5 +1,10 @@
 # 210CT-Coursework
 
+Repo for university coursework based around data structures. Contains Binary Search Tree & Graph structure. Written in C++, developed in Visual Studio 2017.
+Also contains unit testing.
+
+
+
 The text in the file that the binary search tree reads from is:  
 Title: Atlas Shrugged  
 Author: Ayn Rand  
